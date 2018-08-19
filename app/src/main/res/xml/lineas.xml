@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="points_prompt">Elige un punto estratégico</string>
+    <string-array name="points_array">
+        <item>Terminal Terrestre</item>
+        <item>Maecón</item>
+        <item>La Bahía</item>
+        <item>Barrio El Astillero</item>
+        <item>Alborada (Mc Donald's)</item>
+        <item>Martha Roldós</item>
+        <item>Urdesa (Plaza Triángulo)</item>
+        <item>Portete</item>
+    </string-array>
+</resources>

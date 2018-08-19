@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AMImaps</string>
+    <string name="title_activity_maps">AMImaps</string>
+    <string name="textview"></string>
+    <string name="title_activity_main">Buseta Fácil</string>
+    <string name="title_activity_alrededor">Mi Posición</string>
+    <string name="title_activity_ini_fin">Rutas por Inicio y Fin</string>
+    <string name="title_activity_scan">Escaneo de Ruta</string>
+    <string name="points_prompt">Elige un punto estratégico</string>
+    <string name="txt_buscar_buses">Buscar buses...</string>
+    <string name="EscaneoDeRuta">Escaneo de ruta</string>
+    <string-array name="points_array">
+        <item>Select one</item>
+        <item>Terminal Terrestre</item>
+        <item>Malecón</item>
+        <item>Barrio El Astillero</item>
+        <item>Alborada (Mc Donalds)</item>
+        <item>Martha Roldós</item>
+        <item>Urdesa (Plaza Triángulo)</item>
+        <item>Portete</item>
+    </string-array>
+</resources>
